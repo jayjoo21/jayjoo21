@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&text=Jinhee%20Joo&fontColor=ffffff&fontSize=50&fontAlignY=55)
 
 <br>
 
