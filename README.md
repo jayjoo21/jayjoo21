@@ -43,4 +43,4 @@ Hankuk University of Foreign Studies
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jayjoo21.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://jayjoo21.github.io)
-[![Email](https://img.shields.io/badge/Gmail-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wnwlsgml0112@gmail.com)
