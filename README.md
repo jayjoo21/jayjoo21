@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=6EA8D6&height=200&section=header&text=Jinhee%20Joo&fontColor=ffffff&fontSize=60&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&text=Jinhee%20Joo&fontColor=ffffff&fontSize=50&fontAlignY=55)
 
 <br>
 
@@ -37,6 +37,16 @@ Hankuk University of Foreign Studies
 ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [SEMANTICA](https://github.com/jayjoo21/ontology) | 🏆 Intent-driven paper search service built on knowledge graph — Best Award @ SNU Big Data |
+| [IEUM](https://carely-two.vercel.app) | AI-powered social welfare platform connecting citizens with the right resources |
+| Hana Branch-Out | Expert collaboration platform for SMEs navigating EU CBAM regulations |
 
 <br>
 
