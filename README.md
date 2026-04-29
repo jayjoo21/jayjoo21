@@ -7,7 +7,7 @@
 
 **Jinhee Joo**
 
-Hankuk University of Foreign Studies
+Hankuk University of Foreign Studies (HUFS)
 
 - B.S. Computer Engineering
 - B.A. German Translation & Interpretation
