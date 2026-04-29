@@ -41,11 +41,12 @@ Hankuk University of Foreign Studies
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [SEMANTICA](https://github.com/jayjoo21/ontology) | 🏆 Intent-driven paper search service built on knowledge graph — Best Award @ SNU Big Data |
-| [IEUM](https://carely-two.vercel.app) | AI-powered social welfare platform connecting citizens with the right resources |
-| Hana Branch-Out | Expert collaboration platform for SMEs navigating EU CBAM regulations |
+[SEMANTICA](https://github.com/jayjoo21/ontology) 
+🏆 Intent-driven paper search service built on knowledge graph — Best Award @ SNU Big Data
+[IEUM](https://carely-two.vercel.app) 
+AI-powered social welfare platform connecting citizens with the right resources
+Hana Branch-Out
+Expert collaboration platform for SMEs navigating EU CBAM regulations 
 
 <br>
 
